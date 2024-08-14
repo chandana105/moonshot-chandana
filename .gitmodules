@@ -1,0 +1,6 @@
+[submodule "conways-game-of-life-roc8-moonshot"]
+	path = conways-game-of-life-roc8-moonshot
+	url = https://github.com/chandana105/conways-game-of-life-roc8-moonshot
+[submodule "e-commerce-moonshot-chandana"]
+	path = e-commerce-moonshot-chandana
+	url = https://github.com/chandana105/e-commerce-moonshot
