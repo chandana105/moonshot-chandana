@@ -1,12 +1,13 @@
 {
-  "rewrites": [
-    {
-      "source": "/game/:path*",
-      "destination": "https://conways-game-of-life-roc8-moonshot.vercel.app/:path*"
-    },
-    {
-      "source": "/ecommerce/:path*",
-      "destination": "https://e-commerce-moonshot.vercel.app/:path*"
-    }
-  ]
-}
+    "rewrites": [
+      {
+        "source": "/game/:path*",
+        "destination": "https://conways-game-of-life-roc8-moonshot.vercel.app/:path*"
+      },
+      {
+        "source": "/ecommerce/:path*",
+        "destination": "https://e-commerce-moonshot.vercel.app/:path*"
+      }
+    ]
+  }
+  
